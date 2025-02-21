@@ -1,5 +1,45 @@
 # GenAI Roadmap for Beginners | End-to-End GenAI Course 2025 | CampusX
 
+## Table of Contents
+1. [Introduction to Generative AI](#introduction-to-generative-ai)
+   - [Core Concepts](#core-concepts)
+   - [Industry Impact](#industry-impact)
+   - [Current State Analysis](#current-state-analysis)
+
+2. [Foundation Models](#foundation-models-a-dual-perspective-analysis)
+   - [User Perspective](#user-perspective)
+   - [Builder Perspective](#builder-perspective)
+   - [Shared Considerations](#shared-considerations)
+   - [Application Domains](#application-domains)
+   - [Key Metrics and Evaluation](#key-metrics-and-evaluation)
+
+3. [Foundation Model Concepts](#foundation-model-concepts-dual-perspective-analysis-)
+   - [User Perspective](#1-user-perspective-)
+   - [Builder Perspective](#2-builder-perspective-)
+   - [Implementation Guidelines](#4-implementation-guidelines-)
+   - [Best Practices](#5-best-practices-)
+
+4. [Builder's Guide](#the-builders-perspective-foundation-model-development-guide-)
+   - [Transformer Architecture](#1-transformer-architecture-fundamentals-)
+   - [Types of Transformers](#2-types-of-transformers-)
+   - [Pretraining Pipeline](#3-pretraining-pipeline-)
+   - [Optimization Techniques](#4-optimization-techniques-)
+   - [Deployment Considerations](#7-deployment-considerations-)
+
+5. [User's Guide](#the-users-perspective-llm-implementation-guide-)
+   - [Building Applications](#1-building-basic-llm-applications-)
+   - [LLM Options](#2-open-source-vs-closed-source-llms-)
+   - [Framework Deep Dives](#4-framework-deep-dives-)
+   - [RAG Implementation](#6-rag-implementation-)
+   - [Best Practices](#best-practices-checklist)
+
+6. [Career Paths](#understanding-aiml-career-paths-do-we-need-both-sides-)
+   - [Role Analysis](#role-analysis)
+   - [Career Recommendations](#career-path-recommendations)
+   - [Decision Framework](#decision-framework-)
+   - [Learning Paths](#learning-path-recommendations-)
+   - [Resources](#resources-for-learning-)
+
 Generative AI (often abbreviated as GenAI) refers to a category of artificial intelligence techniques that are designed to generate new, original content by learning patterns from existing data. Here's a breakdown of what that means:
 
 1. **Learning from Data:**  

@@ -1,1 +1,1 @@
-# End-to-End-GenAI-Course-2025-CampusX
+# End-to-End-GenAI-Course-2025
